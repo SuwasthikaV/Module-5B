@@ -50,7 +50,8 @@ print(result_data)
 ```
 
 ## Output
-<img width="694" height="855" alt="image" src="https://github.com/user-attachments/assets/185e9be4-a998-4198-afdc-054df6ea724b" />
+<img width="694" height="855" alt="image" src="https://github.com/user-attachments/assets/33ed25eb-df22-4517-bd75-8b32f7a0ea13" />
+
 
 ## Result
 Thus, the Python program has been successfully created and executed successfully to join the two DataFrames row-wise using pd.concat() and all records from both DataFrames were included in the final output .
